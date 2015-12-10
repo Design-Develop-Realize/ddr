@@ -1,0 +1,13 @@
+table{margin:0 auto;}
+body{background:url('bgfill.gif');}
+#rotating-item-wrapper {
+	position: relative;
+	width: 960px;
+	height: 468px;
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}

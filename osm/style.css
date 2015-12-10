@@ -1,0 +1,53 @@
+*{font:14px Helvetica, Arial;}
+body{background:#444;}
+
+h1{font-size:150%;}
+img{margin:0;padding:0;}
+ul, li, ul li{margin:0;padding:0;}
+
+#wrap{width:760px;margin:3% auto;background:white;}
+
+#nav{text-align:center;clear:both;padding:0 6px 0 6px;}
+#nav li{display:inline;list-style:none;margin-right:1em;color:brown;}
+#nav a{color:brown;text-decoration:none;text-transform:uppercase;font-size:80%;letter-spacing:0.2em;}
+#nav a:hover{color:brown;}
+
+#head{text-align:right;min-height:120px;}
+
+
+#main{margin:-3px 0 0 255px;padding:3px 15px 5px 0;min-height:362px;}
+#main p{line-height:1.5em;}
+
+#side{width:255px;float:left;min-height:362px; margin:0;}
+.side ul{list-style:none;padding:0;margin:0;}
+.side li{padding:15px;width:220px;margin:0 0 5px 0;}
+.side a{letter-spacing:0.2em;font-size:85%;}
+
+.side a, .side p{text-decoration:none;text-transform:uppercase;color:white;}
+
+.abt{background:#0066cc;text-align:right;}
+.abt:hover{background:#add2f7;}
+.abt:hover a{color:black;}
+.wine{background:#6666cc;text-align:right;}
+.wine:hover{background:#d4aaff;}
+.wine:hover a{color:black;}
+.hosp{background:#0000cc;text-align:right;}
+.hosp:hover{background:#c9c9ff;}
+.hosp:hover a{color:black;}
+.hist{background:#cc6633;text-align:right;}
+.hist:hover{background:#ffcc9e;}
+.hist:hover a{color:black;}
+.trade{background:#006600;text-align:right;}
+.trade:hover{background:#beeabe;}
+.trade:hover a{color:black;}
+.dayc{background:#82ca85;text-align:left;height:197px;}
+.dayc p{font:200% century gothic; }
+
+
+
+
+
+#footer{padding:3px 15px;}
+.foot{clear:both;color:brown;}
+.foot li{display:inline;margin-right:1em;text-transform:uppercase;letter-spacing:0.2em;font-size:65%;}
+.foot a, .foot p{color:brown;text-decoration:none;text-transform:uppercase;font-size:100%;letter-spacing:0.2em;}

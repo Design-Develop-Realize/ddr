@@ -1,0 +1,21 @@
+table{margin:0 auto;}
+body{background:url('images/bgfill.jpg');}
+
+form{padding:15px;font:12pt Georgia;margin-top:15px;margin-left:15px;margin-bottom:20px;}
+form p{margin-left:15px;}
+option{border:none;}
+input, select{margin-left:5px;font:12pt Georgia;border:none;}
+textarea{font:12pt Georgia;width:450px;height:150px;}
+.frm{color:#333;border-radius:15px;padding:10px;height:1100px;width:923px;}
+
+#rotating-item-wrapper {
+	position: relative;
+	width: 973px;
+	height: 350px;
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}

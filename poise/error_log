@@ -1,0 +1,507 @@
+[12-Aug-2012 23:54:01 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:54:01 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[12-Aug-2012 23:54:51 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:54:51 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[12-Aug-2012 23:55:18 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:55:18 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[12-Aug-2012 23:55:22 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:55:22 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[12-Aug-2012 23:55:23 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:55:23 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[12-Aug-2012 23:55:36 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'designde_poise'@'web02.swbroadband.co.uk' (using password: YES) in /home/designde/public_html/poise/paxppl.php on line 59
+[12-Aug-2012 23:55:36 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/paxppl.php on line 61
+[08-Sep-2012 18:56:06 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/index.php on line 103
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:20:35 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/designde/public_html/poise/paxexp.php on line 54
+[12-Sep-2012 23:27:31 UTC] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE in /home/designde/public_html/poise/paxexp.php on line 55
+[16-Sep-2012 08:39:04 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/designde/public_html/poise/index.php on line 228
+[16-Sep-2012 22:25:16 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/designde/public_html/poise/index.php on line 305
+[16-Sep-2012 22:26:14 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/designde/public_html/poise/index.php on line 351
+[16-Sep-2012 22:26:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/designde/public_html/poise/index.php on line 351
+[16-Sep-2012 22:27:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/designde/public_html/poise/index.php on line 443
+[16-Sep-2012 22:27:37 UTC] PHP Parse error:  syntax error, unexpected '"' in /home/designde/public_html/poise/index.php on line 521
+[16-Sep-2012 22:28:39 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/designde/public_html/poise/index.php on line 521
+[16-Sep-2012 22:30:29 UTC] PHP Parse error:  syntax error, unexpected '*' in /home/designde/public_html/poise/index.php on line 535
+[16-Sep-2012 22:38:23 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/designde/public_html/poise/index.php on line 330
+[16-Sep-2012 22:38:30 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/designde/public_html/poise/index.php on line 330
+[16-Sep-2012 22:41:54 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/designde/public_html/poise/index.php on line 330
+[16-Sep-2012 22:41:54 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/designde/public_html/poise/index.php on line 526
+[16-Sep-2012 22:42:01 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Empty delimiter in /home/designde/public_html/poise/index.php on line 330
+[16-Sep-2012 22:42:02 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/designde/public_html/poise/index.php on line 526
+[16-Sep-2012 22:44:56 UTC] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/designde/public_html/poise/index.php on line 526
+[16-Sep-2012 22:46:44 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/designde/public_html/poise/index.php on line 526
+[16-Sep-2012 22:47:16 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, string given in /home/designde/public_html/poise/index.php on line 526
+[17-Oct-2012 09:33:50 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/log.php on line 18
+[17-Oct-2012 09:51:56 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/designde/public_html/poise/log.php on line 24
+[17-Oct-2012 09:52:20 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/designde/public_html/poise/log.php on line 24
+[17-Oct-2012 09:53:34 UTC] PHP Fatal error:  Cannot use object of type mysqli_result as array in /home/designde/public_html/poise/log.php on line 24
+[26-Oct-2012 21:15:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:22) in /home/designde/public_html/poise/log.php on line 27
+[26-Oct-2012 21:15:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:22) in /home/designde/public_html/poise/log.php on line 29
+[15-Nov-2012 00:56:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:22) in /home/designde/public_html/poise/log.php on line 27
+[15-Nov-2012 00:57:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:22) in /home/designde/public_html/poise/log.php on line 27
+[15-Nov-2012 01:17:10 UTC] PHP Parse error:  syntax error, unexpected '.' in /home/designde/public_html/poise/log.php on line 28
+[15-Nov-2012 01:18:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/include.php:31) in /home/designde/public_html/poise/log.php on line 30
+[15-Nov-2012 01:23:01 UTC] PHP Parse error:  syntax error, unexpected $end in /home/designde/public_html/poise/index.php on line 509
+[15-Nov-2012 01:23:07 UTC] PHP Parse error:  syntax error, unexpected $end in /home/designde/public_html/poise/index.php on line 509
+[15-Nov-2012 01:27:38 UTC] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/designde/public_html/poise/index.php on line 51
+[15-Nov-2012 01:28:04 UTC] PHP Parse error:  syntax error, unexpected $end in /home/designde/public_html/poise/index.php on line 219
+[15-Nov-2012 01:34:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/designde/public_html/poise/include.php on line 32
+[15-Nov-2012 01:36:45 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/designde/public_html/poise/index.php on line 480
+[15-Nov-2012 01:44:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/include.php:22) in /home/designde/public_html/poise/log.php on line 30
+[15-Nov-2012 02:00:19 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 75
+[15-Nov-2012 02:01:10 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 75
+[15-Nov-2012 02:27:31 UTC] PHP Warning:  array_keys() expects parameter 1 to be array, null given in /home/designde/public_html/poise/paxppl.php on line 92
+[15-Nov-2012 02:27:31 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/designde/public_html/poise/paxppl.php on line 92
+[15-Nov-2012 02:49:54 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 78
+[15-Nov-2012 10:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[15-Nov-2012 10:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[15-Nov-2012 10:20:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[15-Nov-2012 10:20:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[15-Nov-2012 13:42:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[15-Nov-2012 13:42:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[15-Nov-2012 20:55:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[15-Nov-2012 20:55:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[15-Nov-2012 21:27:18 UTC] PHP Parse error:  syntax error, unexpected T_DEFAULT in /home/designde/public_html/poise/include.php on line 32
+[15-Nov-2012 21:27:47 UTC] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/designde/public_html/poise/include.php on line 39
+[15-Nov-2012 22:46:11 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[16-Nov-2012 08:18:15 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[18-Nov-2012 20:52:34 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[18-Nov-2012 23:05:59 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Nov-2012 00:08:22 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Nov-2012 00:44:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[19-Nov-2012 00:44:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[19-Nov-2012 00:53:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[19-Nov-2012 00:53:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[19-Nov-2012 01:16:31 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Nov-2012 06:48:45 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Nov-2012 08:23:41 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[20-Nov-2012 00:09:30 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[27-Nov-2012 23:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[27-Nov-2012 23:29:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[29-Nov-2012 19:42:55 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[02-Dec-2012 20:24:49 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[02-Dec-2012 20:24:50 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[02-Dec-2012 20:24:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[02-Dec-2012 20:24:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[14-Dec-2012 03:38:44 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[14-Dec-2012 03:38:44 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Dec-2012 20:08:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[19-Dec-2012 20:08:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[28-Dec-2012 00:15:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/designde/public_html/poise/test3.php on line 14
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbinfo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'designde'@'localhost' (using password: NO) in /home/designde/public_html/poise/test3.php on line 17
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/designde/public_html/poise/test3.php on line 17
+[28-Dec-2012 00:15:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/designde/public_html/poise/test3.php on line 18
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbinfo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'designde'@'localhost' (using password: NO) in /home/designde/public_html/poise/test3.php on line 17
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/designde/public_html/poise/test3.php on line 17
+[28-Dec-2012 00:16:49 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/designde/public_html/poise/test3.php on line 18
+[28-Dec-2012 00:23:58 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:23:58 UTC] PHP Warning:  include(dbinfo.inc.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:23:58 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'dbinfo.inc.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/designde/public_html/poise/test3.php on line 11
+[28-Dec-2012 00:23:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 25
+[28-Dec-2012 00:24:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 24
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 50
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 51
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 52
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 53
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 54
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 50
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 51
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 52
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 53
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 54
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 50
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 51
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 52
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 53
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 54
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 50
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 51
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 52
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 53
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 54
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 50
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 51
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 52
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 53
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 54
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:25:05 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:26:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 24
+[28-Dec-2012 00:28:13 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 28
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 70
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 71
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 72
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 73
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 74
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 70
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 71
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 72
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 73
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 74
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 70
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 71
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 72
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 73
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 74
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 70
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 71
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 72
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 73
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 74
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 55
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 56
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 57
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 58
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 59
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 60
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 61
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 62
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 63
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 64
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 65
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 66
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 67
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 68
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 69
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 70
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 71
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 72
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 73
+[28-Dec-2012 00:29:26 UTC] PHP Warning:  mysql_result() expects parameter 1 to be resource, object given in /home/designde/public_html/poise/test3.php on line 74
+[28-Dec-2012 03:15:28 UTC] PHP Fatal error:  Call to undefined function mysqli_result() in /home/designde/public_html/poise/test2.php on line 55
+[28-Dec-2012 04:27:22 UTC] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting T_STRING or T_VARIABLE or '{' or '$' in /home/designde/public_html/poise/test2.php on line 54
+[28-Dec-2012 06:07:35 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/designde/public_html/poise/parser.php on line 188
+[28-Dec-2012 06:27:55 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 29
+[28-Dec-2012 06:27:55 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 49
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 57
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 60
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 85
+[28-Dec-2012 06:27:56 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 88
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 29
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 49
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 57
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 60
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 85
+[28-Dec-2012 06:28:31 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 88
+[28-Dec-2012 14:14:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 25
+[28-Dec-2012 14:14:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 44
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 52
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 55
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 80
+[28-Dec-2012 14:14:36 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 83
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 22
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 41
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 49
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 52
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 77
+[28-Dec-2012 14:15:35 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 80
+[28-Dec-2012 14:17:58 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home/designde/public_html/poise/parser.php on line 18
+[28-Dec-2012 14:28:23 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/designde/public_html/poise/parser.php on line 30
+[28-Dec-2012 15:23:17 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/designde/public_html/poise/parser.php on line 29
+[28-Dec-2012 17:13:25 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/designde/public_html/poise/parser.php on line 29
+[04-Jan-2013 01:04:28 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[06-Jan-2013 21:55:27 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 22
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 41
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 49
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 52
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 7
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 77
+[07-Jan-2013 06:50:28 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home/designde/public_html/poise/parser.php on line 80
+[16-Jan-2013 00:14:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[16-Jan-2013 00:14:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[18-Jan-2013 21:14:58 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Jan-2013 01:16:09 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Jan-2013 03:18:19 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[19-Jan-2013 23:14:25 UTC] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (HY000/2005): Unknown MySQL server host 'http://www.designdeveloprealize.com' (1) in /home/designde/public_html/poise/alliance.php on line 146
+[19-Jan-2013 23:14:25 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/designde/public_html/poise/alliance.php on line 148
+[22-Jan-2013 03:37:52 UTC] PHP Warning:  mysqli_query() [<a href='function.mysqli-query'>function.mysqli-query</a>]: Empty query in /home/designde/public_html/poise/paxppl.php on line 83
+[22-Jan-2013 22:49:33 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/designde/public_html/poise/paxppl.php on line 188
+[22-Jan-2013 22:49:54 UTC] PHP Fatal error:  Only variables can be passed by reference in /home/designde/public_html/poise/paxppl.php on line 188
+[26-Jan-2013 06:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 31
+[26-Jan-2013 06:00:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/designde/public_html/poise/log.php:26) in /home/designde/public_html/poise/log.php on line 33
+[30-Jan-2013 14:40:42 UTC] PHP Fatal error:  Call to undefined function htmlspecialcars() in /home2/designde/public_html/poise/paxexp.php on line 4
+[30-Jan-2013 15:03:28 UTC] PHP Parse error:  syntax error, unexpected T_ECHO in /home2/designde/public_html/poise/paxppl.php on line 107
+[07-Feb-2013 20:06:02 UTC] PHP Fatal error:  Only variables can be passed by reference in /home2/designde/public_html/poise/targetstotopics.php on line 45
+[07-Feb-2013 20:06:20 UTC] PHP Fatal error:  Only variables can be passed by reference in /home2/designde/public_html/poise/targetstotopics.php on line 45
+[12-Feb-2013 21:12:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[12-Feb-2013 21:12:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[12-Feb-2013 21:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[12-Feb-2013 21:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[26-Feb-2013 19:38:58 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/targetstotopics.php on line 61
+[01-Apr-2013 19:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[01-Apr-2013 19:11:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 22
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 41
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 49
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 52
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 7
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 77
+[02-Apr-2013 01:21:47 UTC] PHP Warning:  strpos() [<a href='function.strpos'>function.strpos</a>]: Offset not contained in string in /home2/designde/public_html/poise/parser.php on line 80
+[16-Apr-2013 00:28:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[16-Apr-2013 00:28:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[30-Apr-2013 22:08:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[30-Apr-2013 22:08:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[30-Apr-2013 22:08:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[30-Apr-2013 22:08:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[30-Apr-2013 22:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[30-Apr-2013 22:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[30-Apr-2013 22:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[30-Apr-2013 22:09:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[30-Apr-2013 22:10:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[30-Apr-2013 22:10:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 00:36:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 00:36:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 00:36:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 00:36:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 00:36:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 00:36:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 00:45:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 00:45:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 00:48:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 00:48:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[27-May-2013 20:04:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[27-May-2013 20:04:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[24-Jun-2013 14:03:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[24-Jun-2013 14:03:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[17-Jul-2013 22:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[17-Jul-2013 22:32:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33
+[01-Sep-2013 09:31:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 31
+[01-Sep-2013 09:31:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/designde/public_html/poise/log.php:26) in /home2/designde/public_html/poise/log.php on line 33

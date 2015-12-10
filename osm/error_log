@@ -1,0 +1,21 @@
+[30-Apr-2012 19:10:50 UTC] PHP Fatal error:  Cannot redeclare class Theme_Default in /home/designde/public_html/osm/system/cms/themes/osm/theme.php on line 59
+[30-Apr-2012 19:43:50 UTC] PHP Fatal error:  Uncaught exception 'Asset_Exception' with message 'Found no files matching system/cms/themes/osm/css/style.css' in /home/designde/public_html/osm/system/cms/libraries/Asset.php:1129
+Stack trace:
+#0 /home/designde/public_html/osm/system/cms/libraries/Asset.php(781): Asset::find_files('theme::style.cs...', 'css')
+#1 /home/designde/public_html/osm/system/cms/libraries/Asset.php(739): Asset::get_filepath('style.css', 'css', true, false)
+#2 /home/designde/public_html/osm/system/cms/plugins/theme.php(97): Asset::get_filepath_css('style.css', true)
+#3 /home/designde/public_html/osm/system/cms/plugins/theme.php(83): Plugin_Theme->css_url('style.css')
+#4 [internal function]: Plugin_Theme->css()
+#5 /home/designde/public_html/osm/system/cms/libraries/Plugins.php(221): call_user_func(Array)
+#6 /home/designde/public_html/osm/system/cms/libraries/Plugins.php(132): Plugins->_process('system/cms/plug...', 'theme', 'css', Array, '')
+#7 /home/designde/public_html/osm/system/cms/libraries/MY_Parser.php(123): Plugins->locate('th in /home/designde/public_html/osm/system/cms/libraries/Asset.php on line 1129
+[30-Apr-2012 19:45:29 UTC] PHP Fatal error:  Uncaught exception 'Asset_Exception' with message 'Found no files matching system/cms/themes/osm/css/ie.css' in /home/designde/public_html/osm/system/cms/libraries/Asset.php:1129
+Stack trace:
+#0 /home/designde/public_html/osm/system/cms/libraries/Asset.php(781): Asset::find_files('theme::ie.css', 'css')
+#1 /home/designde/public_html/osm/system/cms/libraries/Asset.php(739): Asset::get_filepath('ie.css', 'css', true, false)
+#2 /home/designde/public_html/osm/system/cms/plugins/theme.php(97): Asset::get_filepath_css('ie.css', true)
+#3 /home/designde/public_html/osm/system/cms/plugins/theme.php(83): Plugin_Theme->css_url('ie.css')
+#4 [internal function]: Plugin_Theme->css()
+#5 /home/designde/public_html/osm/system/cms/libraries/Plugins.php(221): call_user_func(Array)
+#6 /home/designde/public_html/osm/system/cms/libraries/Plugins.php(132): Plugins->_process('system/cms/plug...', 'theme', 'css', Array, '')
+#7 /home/designde/public_html/osm/system/cms/libraries/MY_Parser.php(123): Plugins->locate('theme:css', Array,  in /home/designde/public_html/osm/system/cms/libraries/Asset.php on line 1129

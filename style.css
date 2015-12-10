@@ -1,0 +1,65 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+@import url(http://fonts.googleapis.com/css?family=Fenix);
+
+
+*{margin:0;padding:0;font-family: 'Open Sans';}
+
+body{margin-top:10px;}
+
+
+
+h1{font:400 32pt 'Open Sans', Arial; text-transform:uppercase;padding-bottom:8px;}
+h1:first-letter{color:#ffc000;font-weight:bold;}
+
+
+p{padding:5px 0 10px 0;font:400 16pt/1.8em 'Georgia';}
+
+
+a{text-decoration:none;color:#252525;font-weight:400;}
+a:link, a:visited{color:#111;}
+a:hover, a:active{color:#ffc000;}
+
+img.bam{margin-left:120px;}
+
+
+/*styles for the table*/
+table{text-align:center;border-collapse:collapse;margin:0 auto;border:2px solid black;}
+td{width:190px;padding:5px 10px;}
+thead{text-transform:uppercase;background:#252525;color:#ffd800;font:bold 20pt 'Open Sans';}
+.desc{text-transform:uppercase;font-size:small;}
+.yb:after{content:"*";}
+tbody tr:nth-child(even){background:#fff2a9;}
+tbody tr:hover{background:#ccc;}
+tfoot{background:#252525;color:#ffd800;font:bold 16pt 'Open Sans';text-transform:uppercase;}
+
+
+/*placement for the logo and the DDR text*/
+#head{width:940px;margin:0 auto;padding:10px;}
+.header h1{font-weight:bold;font-size:24pt;margin:-65px 0 0 80px;}
+.header h1:first-letter{color:#252525;}
+
+
+.menu a:link, .menu a:visited{color:#111;}
+.menu a:hover, .menu a:active{color:#ffc000;}
+.menu li{list-style:none;margin:0 0 0 10px;display:inline;font:bold 24pt 'Open Sans',Arial;text-transform:uppercase;}
+.menu{float:right;margin:15px 0 0 10px;}
+
+.menu li.here a{color:#ffd800;font-weight:700; padding:0 8px;border-top:4px solid #252525;}
+
+
+
+#main{width:100%;}
+.main{width:940px;padding:10px;margin:0 auto;color:#252525;min-height:500px;}
+.main a{border-bottom:1px dashed #252525;font-family:Georgia;}
+.main a:hover{color:#ffc000;}
+
+.note{font-style:italic;}
+.note:before{content:"*";}
+
+
+#foot{width:100%;}
+.foot{margin:0 auto;width:940px;padding:13px 0;border-top:2px dotted #252525;}
+.foot p{line-height:1em;font:12pt 'Open Sans'}
+.foot a {font:bold 18pt 'Open Sans', Arial, Helvetica, Sans-serif;}
+.foot a:link, .foot a:visited{color:#000;}
+.foot a:hover, .foot a:active{color:#ffc000;}

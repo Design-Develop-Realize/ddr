@@ -1,0 +1,74 @@
+*{margin:0;padding:0;}
+html{background:#4F868C;}
+body{margin-top:10px;}
+h1{color:#00060D; font:bold 36pt Arial; text-transform:uppercase;padding-bottom:8px;}
+h2{color:#999;font:bold 16pt Arial; text-transform:uppercase;padding-bottom:8px;}
+h3{color:#ccc;font:14pt Arial;padding-bottom:8px;}
+.main p, p{padding:5px 0 10px 0;line-height:1.8em;color:#262626;font:12pt Georgia;}
+
+form{background:#333;padding:15px;font:12pt Georgia;margin-top:15px;margin-left:15px;margin-bottom:20px;}
+form p{margin-left:15px;}
+option{border:none;}
+input, select, textarea{border-radius:5px;border:thin solid #333;padding:5px;font:10pt Georgia;width:95%;}
+textarea{height:150px;}
+
+a{text-decoration:none;color:#252525;}
+a:link, a:visited{color:#00688B;}
+a:hover, a:active {color:#f00;}
+
+
+#header{}
+.header{width:960px;margin:0 auto;}
+
+
+.phone{padding:30px 0 0 0;border-top:2px solid #ccc;width:30%;color:#ccc;font:10pt Arial;float:right;margin-right:50px;}
+.phoneinfo{float:right;color:#888;}
+.phone li{border-bottom:1px solid #999;list-style:none;padding:5px 0;}
+.phone a{color:#ffc000;}
+.phone a:hover{text-decoration:underline;}
+
+#blurb{width:384px;border-top:2px solid #ccc;padding:30px 0 0 0;float:right;}
+#blurb p{font:10pt Arial;color:#888;}
+
+/*
+#logo{width:100%;}
+.logo{width:350px;height:100px;background:url('/img/ddrlogo.png');margin:auto;}
+*/
+#menu{position:relative;}
+#menu a{font:bold 14pt Arial, Helvetica, Sans-serif;}
+#menu a:link, #menu a:visited{}
+#menu a:hover, #menu a:active{color:#ffc000;}
+.menu{width:960px;padding:20px 0;margin:auto;text-align:right;}
+.menu li{list-style:none;padding:0 5px;display:inline;}
+
+.submenu{border-top:1px solid #777;padding-top:20px;width:120px;visibility:hidden;}
+
+*.here a{color:#ff6d00;}
+
+#wrap{clear:both;width:100%;}
+.wrap{width:960px;margin:auto;}
+
+#main{}
+.main{width:960px;padding:20px 0;}
+.main ul{margin-left:40px;}
+.main li{line-height:1.8em;}
+.main ul{padding:5px 0 10px 0;line-height:1.5em;color:#999;font:12pt Georgia;}
+.main a{padding:5px;color:#ffc000;}
+.main a:hover{background:#ffc000;color:#333;}
+.main p{line-height:1.6em;}
+
+
+#foot{width:100%;clear:both;padding-bottom:250px;}
+.foot{margin:0 auto;width:960px;padding:20px 0;}
+.foot a {font:bold 12pt Arial, Helvetica, Sans-serif;padding:4px 0;}
+.foot a:link, .foot a:visited{color:#000;}
+.foot a:hover, .foot a:active{color:#ffc000;}
+.foot li{list-style:none;margin:20px 0;}
+.foot h2{color:#fff; font:bold 16pt Arial; text-transform:uppercase;padding-bottom:4px;}
+
+
+.frm{background:#131313;color:#252525;border-radius:15px;padding:10px;}
+#main .quote{padding:10px;border-top:1px solid #999;border-bottom:1px solid #999;text-align:center;margin:20px 40px;font-family:Arial;color:#ffc000;}
+.undrln li{border-bottom:1px dotted #eee;}
+
+.spacer{height:30px;}

@@ -1,0 +1,15 @@
+table{margin:0 auto;}
+body{background:url('images/bgfill.gif');}
+#rotating-item-wrapper {
+	position: relative;
+	width: 960px;
+	height: 425px;
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.shadow{width:1018px;height:77px;background:url('images/simple_img_1-30.jpg');background-position:bottom;}

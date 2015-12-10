@@ -1,0 +1,13 @@
+table{margin:0 auto;}
+body{background:url('bgfill.jpg');}
+#rotating-item-wrapper {
+	position: relative;
+	width: 980px;
+	height: 451px;
+}
+.rotating-item {
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
