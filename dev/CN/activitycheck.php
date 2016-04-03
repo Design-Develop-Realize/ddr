@@ -1,9 +1,0 @@
-<?
-  session_start();
-  session_register("activity_session");
-?>
-<? 
-$activitycheck=($rsUser->Fields.$Item["Activity"].$Value)+1;
-$activity_session="";
-$activity_session=$activitycheck;
-?>
